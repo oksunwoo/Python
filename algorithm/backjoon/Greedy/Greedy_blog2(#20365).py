@@ -13,7 +13,6 @@ for i in range(N):
         if pen[i+1] == 'R':
             count[0] -= 1
 
-
 for i in range(N):
     if pen[i] == 'R':
         continue
